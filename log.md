@@ -15,3 +15,11 @@ Day 2: May 29, 2020
 **Thoughts:** It was a long day. It literally took me an hour to intall parcel-bundler. I coded from 9a.m to 4p.m. 
 
 **Link to work:** Sorry, can't share it. It is a premium course.
+
+Day 3: May 30, 2020
+
+**Today's Progress**: Created a navbar for my portfolio site. 
+
+**Thoughts:** It was a difficult day. I almost lost hope. My hope came back when I created the navbar. I realized that tutorials are almost nothing without practice. 
+
+**Link to work:** authenticoder.github.io
