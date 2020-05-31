@@ -23,3 +23,12 @@ Day 3: May 30, 2020
 **Thoughts:** It was a difficult day. I almost lost hope. My hope came back when I created the navbar. I realized that tutorials are almost nothing without practice. 
 
 **Link to work:** authenticoder.github.io
+
+Day 4: May 31, 2020
+
+**Today's Progress**: Created the home section for my portfolio site. 
+
+**Thoughts:** It was an alright day. I coded and modified some parts of the site.  
+
+**Link to work:** authenticoder.github.io
+
