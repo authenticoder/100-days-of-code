@@ -30,5 +30,22 @@ Day 4: May 31, 2020
 
 **Thoughts:** It was an alright day. I coded and modified some parts of the site.  
 
-**Link to work:** authenticoder.github.io
+**Link to work:** http://authenticoder.github.io
+
+Day 5: June 1, 2020
+
+**Today's Progress**: Almost completed my #portfolio site. I wrote code of the about and work section of the site.
+
+**Thoughts:** I am starting to get used to coding everyday.
+
+**Link to work:** http://authenticoder.github.io
+
+
+Day 6: June 2, 2020
+
+**Today's Progress**: Completed my #portfolio site. I wrote the footer section and modified the site for mobile.
+
+**Thoughts:** It was an alright day. I am starting to get used to coding everyday.
+
+**Link to work:** http://authenticoder.github.io
 
