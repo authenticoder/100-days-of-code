@@ -22,7 +22,7 @@ Day 3: May 30, 2020
 
 **Thoughts:** It was a difficult day. I almost lost hope. My hope came back when I created the navbar. I realized that tutorials are almost nothing without practice. 
 
-**Link to work:** authenticoder.github.io
+**Link to work:** http://authenticoder.github.io
 
 Day 4: May 31, 2020
 
