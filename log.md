@@ -43,7 +43,7 @@ Day 5: June 1, 2020
 
 Day 6: June 2, 2020
 
-**Today's Progress**: Completed my #portfolio site. I wrote the footer section and modified the site for mobile.
+**Today's Progress**: Completed my #portfolio site. I wrote the footer section and modified the site for mobile. I also added my project's code to github.
 
 **Thoughts:** It was an alright day. I am starting to get used to coding everyday.
 
